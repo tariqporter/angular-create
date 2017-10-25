@@ -1,0 +1,21 @@
+{
+  "name": "angular-create",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "angular-create": "./bin/angular-create"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "tariqporter",
+      "email": "tic084@gmail.com"
+    }
+  ]
+}
